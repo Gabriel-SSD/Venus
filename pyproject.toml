@@ -1,0 +1,11 @@
+[project]
+name = "venus"
+version = "0.1.0"
+description = "Pipeline de dados do TMDB."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
