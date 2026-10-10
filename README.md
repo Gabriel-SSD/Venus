@@ -2,7 +2,7 @@
 
 Pipeline de dados do [TMDB](https://developer.themoviedb.org/reference/getting-started). O código fica em `src/venus/`: `ingest.py` busca a API, `transform.py` trata o resultado, `utils/` é o que os dois compartilham. A saída local vai para `data/`, que não entra no Git.
 
-Python 3.12. O padrão de commit está em [docs/commits.md](docs/commits.md).
+Python 3.12. O padrão de commit está em [docs/commits.md](docs/commits.md). A branch de trabalho está em [docs/branches.md](docs/branches.md).
 
 ## Setup
 
